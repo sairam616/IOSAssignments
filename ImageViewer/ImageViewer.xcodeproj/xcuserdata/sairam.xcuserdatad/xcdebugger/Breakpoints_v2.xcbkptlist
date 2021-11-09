@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8DD1A746-8718-4A0B-9797-A06DD6A1C241"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1DB5138-429B-47CA-9708-F255C8055152"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B1DB5138-429B-47CA-9708-F255C8055152 - e4a86dc786fd51d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ImageViewer.ViewController"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sairam/Desktop/Sem3/IOS%20/Assignment-3/ImageViewer/ImageViewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B1DB5138-429B-47CA-9708-F255C8055152 - 9e9e45a6ce97d045"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ImageViewer.ViewController"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sairam/Desktop/Sem3/IOS%20/Assignment-3/ImageViewer/ImageViewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "B1DB5138-429B-47CA-9708-F255C8055152 - d3c05f84ec52ea8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ImageViewer.ViewController&gt;"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sairam/Desktop/Sem3/IOS%20/Assignment-3/ImageViewer/ImageViewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B1DB5138-429B-47CA-9708-F255C8055152 - df64b9ffc8e9e550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ImageViewer.ViewController&gt;"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sairam/Desktop/Sem3/IOS%20/Assignment-3/ImageViewer/ImageViewer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
